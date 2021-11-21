@@ -1,76 +1,5 @@
 const menu = [
-  // {
-  //   id: 1,
-  //   title: "buttermilk pancakes",
-  //   category: "breakfast",
-  //   price: 15.99,
-  //   img: "./images/item-1.jpeg",
-  //   desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
-  // },
-  // {
-  //   id: 2,
-  //   title: "diner double",
-  //   category: "lunch",
-  //   price: 13.99,
-  //   img: "./images/item-2.jpeg",
-  //   desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
-  // },
-  // {
-  //   id: 3,
-  //   title: "godzilla milkshake",
-  //   category: "shakes",
-  //   price: 6.99,
-  //   img: "./images/item-3.jpeg",
-  //   desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
-  // },
-  // {
-  //   id: 4,
-  //   title: "country delight",
-  //   category: "breakfast",
-  //   price: 20.99,
-  //   img: "./images/item-4.jpeg",
-  //   desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
-  // },
-  // {
-  //   id: 5,
-  //   title: "egg attack",
-  //   category: "lunch",
-  //   price: 22.99,
-  //   img: "./images/item-5.jpeg",
-  //   desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
-  // },
-  // {
-  //   id: 6,
-  //   title: "oreo dream",
-  //   category: "shakes",
-  //   price: 18.99,
-  //   img: "./images/item-6.jpeg",
-  //   desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
-  // },
-  // {
-  //   id: 7,
-  //   title: "bacon overflow",
-  //   category: "breakfast",
-  //   price: 8.99,
-  //   img: "./images/item-7.jpeg",
-  //   desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
-  // },
-  // {
-  //   id: 8,
-  //   title: "american classic",
-  //   category: "lunch",
-  //   price: 12.99,
-  //   img: "./images/item-8.jpeg",
-  //   desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
-  // },
-  // {
-  //   id: 9,
-  //   title: "quarantine buddy",
-  //   category: "shakes",
-  //   price: 16.99,
-  //   img: "./images/item-9.jpeg",
-  //   desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
-  // },
+  
   {
     id: 10,
     title: "Грузинский обед",
@@ -185,7 +114,7 @@ const menu = [
   },
   {
     id: 24,
-    title: "Питинхи",
+    title: "Питинхи (куриные потрошка)",
     category: "Горячее",
     price: 310,
     img: "./images/item-24.jpg",
@@ -193,11 +122,11 @@ const menu = [
   },
   {
     id: 25,
-    title: "Аджабсандал",
+    title: "Аджабсандал (овощное рагу)",
     category: "Горячее",
     price: 360,
     img: "./images/25.png",
-    desc: `Овощное рагу по-грузински`,
+    desc: `Овощное рагу по-грузински "Аджабсандал"`,
   },
   {
     id: 26,
@@ -209,7 +138,7 @@ const menu = [
   },
   {
     id: 27,
-    title: "Шашлык из баранины",
+    title: "Шашлык из баранины от шефа",
     category: "Шашлыки",
     price: 590,
     img: "./images/item-27.jpg",
@@ -217,7 +146,7 @@ const menu = [
   },
   {
     id: 28,
-    title: "Шашлык из свинины",
+    title: "Шашлык из свинины от шефа",
     category: "Шашлыки",
     price: 430,
     img: "./images/28.png",
@@ -225,7 +154,7 @@ const menu = [
   },
   {
     id: 29,
-    title: "Шашлык из курицы",
+    title: "Шашлык из курицы от шефа",
     category: "Шашлыки",
     price: 370,
     img: "./images/29.png",
@@ -241,7 +170,7 @@ const menu = [
   },
   {
     id: 31,
-    title: "Томатный сок",
+    title: "Томатный сок свежевыжатый с мякотью",
     category: "Напитки",
     price: 200,
     img: "./images/item-31.jpg",
@@ -249,7 +178,7 @@ const menu = [
   },
   {
     id: 32,
-    title: "Ананасовый сок",
+    title: "Ананасовый сок свежевыжатый с мякотью",
     category: "Напитки",
     price: 200,
     img: "./images/item-32.jpg",
@@ -257,7 +186,7 @@ const menu = [
   },
   {
     id: 33,
-    title: "Вишневый сок",
+    title: "Вишневый сок свежевыжатый с мякотью",
     category: "Напитки",
     price: 200,
     img: "./images/item-33.jpg",
@@ -265,7 +194,7 @@ const menu = [
   },
   {
     id: 34,
-    title: "Яблочный сок",
+    title: "Яблочный сок свежевыжатый с мякотью",
     category: "Напитки",
     price: 200,
     img: "./images/item-34.jpg",
